@@ -8,5 +8,8 @@
             Console.WriteLine("Hello, World!");
         }
     }
-
+    public class MyText
+    {
+        public string Text { get; set; } = "conghau1308";
+    }
 }
