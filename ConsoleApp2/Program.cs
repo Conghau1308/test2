@@ -6,5 +6,9 @@
         {
             Console.WriteLine("Hello, World!");
         }
+        public void Helo()
+        {
+            Console.WriteLine("Hello, World!");
+        }
     }
 }
