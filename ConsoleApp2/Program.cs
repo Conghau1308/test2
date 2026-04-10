@@ -17,6 +17,8 @@
         public string Text { get; set; } = "haukong1308";
         public string Text1 { get; set; } = "haukong1308";
         public string Text2 { get; set; } = "haukong1308";
+
+        public int number { get; set; } = 1;
     }
     
 }
