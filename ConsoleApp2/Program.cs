@@ -15,5 +15,8 @@
     public class mytext1
     {
         public string Text { get; set; } = "haukong1308";
+        public string Text1 { get; set; } = "haukong1308";
+        public string Text2 { get; set; } = "haukong1308";
+        public string Text3 { get; set; } = "haukong1308";
     }
 }
