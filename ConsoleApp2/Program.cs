@@ -24,5 +24,6 @@
     public class test
     {
 
+        public string Text3 { get; set; } = "haukong1308";
     }
 }
