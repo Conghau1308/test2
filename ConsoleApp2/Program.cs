@@ -23,10 +23,15 @@
     }
     public class test
     {
-
         public string Text3 { get; set; } = "haukong1308";
+        public string Text123 { get; set; } = "haukong1308";
     }
     public class test1
+    {
+        public string Text3 { get; set; } = "haukong1308";
+
+    }
+    public class test2
     {
         public string Text3 { get; set; } = "haukong1308";
     }
