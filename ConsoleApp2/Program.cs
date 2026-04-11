@@ -33,6 +33,6 @@
     }
     public class test2
     {
-
+        public string Text3 { get; set; } = "haukong1308";
     }
 }
