@@ -21,4 +21,8 @@
         public int number { get; set; } = 1;
         public int number1 { get; set; } = 2;
     }
+    public class test
+    {
+
+    }
 }
