@@ -31,4 +31,8 @@
         public string Text3 { get; set; } = "haukong1308";
 
     }
+    public class test2
+    {
+
+    }
 }
