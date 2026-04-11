@@ -28,6 +28,6 @@
     }
     public class testt111
     {
-
+        public string Text123 { get; set; } = "haukong1308";
     }
 }
