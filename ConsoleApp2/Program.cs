@@ -17,6 +17,13 @@
         public string Text { get; set; } = "haukong1308";
         public string Text1 { get; set; } = "haukong1308";
         public string Text2 { get; set; } = "haukong1308";
+
+        public int number { get; set; } = 1;
+        public int number1 { get; set; } = 2;
+    }
+    public class test
+    {
+
         public string Text3 { get; set; } = "haukong1308";
     }
 }
